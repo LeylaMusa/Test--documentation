@@ -1,0 +1,75 @@
+# Test Plan – Demoblaze Cart Module
+
+## 1. Purpose
+The purpose of this testing is to verify all functionality related to the **Cart section** on the Demoblaze website.
+
+---
+
+## 2. Active Modules of the Website
+- Login
+- Sign Up
+- Log Out
+- Cart
+
+---
+
+## 3. Types of Testing
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+
+---
+
+## 4. Testing Tools
+- Web Browser
+- Qase
+- JMeter
+
+---
+
+## 5. Environment
+
+**Operating System**
+- Windows (version: TBD)
+
+**Browsers**
+- Chrome (version: TBD)
+- Opera (version: TBD)
+
+---
+
+## 6. Entry Criteria
+1. Cart functionality is implemented.
+2. Test cases are written.
+
+---
+
+## 7. Exit Criteria
+1. At least **80% of test cases are passed**.
+2. No **critical defects** remain open.
+
+---
+
+## 8. Risks
+1. QA staff may be unavailable or not in working condition.
+2. System crash or instability during testing.
+
+---
+
+## 9. Resources
+| Role | Name |
+|-----|-----|
+| QA Engineer | Selcan |
+| Developer | Sohrab |
+
+---
+
+## 10. Test Deliverables
+- Test Summary Report
+- Bug Reports
+
+---
+
+## 11. Timeline
+**Testing Period:**  
+10.03 – 15.03
